@@ -16,8 +16,7 @@ const Kasir = () => {
   ];
 
   const { isFocus, value, setIsFocus, setValue, getListOrderKasir, deleteOrder, listKasir } = useKasir();
-
-
+  
   return (
     <View className="bg-white h-full pt-3">
       <View className="mx-3 bg-cyan-100/50 rounded-md p-2">

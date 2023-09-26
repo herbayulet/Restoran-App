@@ -22,12 +22,12 @@ const TableKasir: React.FC<tableProps> = ({
     item,
     index,
   }: {
-    item: { id: string; menu: string; hapus: any };
+    item: { id: string; menu: string; kuantity: string };
     index: number;
   }) => (
     <View className="flex-row gap-x-20 justify-between items-center mt-3  border-b border-b-slate-400">
       <View className="">
-        <Text>{index + 1}</Text>
+        <Text>{item?.kuantity}</Text>
       </View>
       <View className="flex-1 pl-9">
         <Text>{item?.menu}</Text>
