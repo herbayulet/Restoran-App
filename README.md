@@ -8,10 +8,12 @@
 Ini adalah Restoran App sederhana yang mana dapat menambah Menu, lalu membuat order untuk setiap Meja (ada 3 Meja: Meja1, Meja2, Meja3), dan dapat mendisclose dari setiap orderan dari setiap meja, serta dapat melakukan print Struk dari setiap Meja.
 
 ## Tampilan Screenshot
-![image](https://github.com/herbayulet/Todo-App-Firebase/assets/61405169/f7b2d401-d8ec-4877-bbdf-8717ad2733f7)
+![WhatsApp Image 2023-09-27 at 07 45 04](https://github.com/herbayulet/Ambisius-Coding-Challenger/assets/61405169/048156ee-23d4-4fcf-aa87-215f140d094b)
+![WhatsApp Image 2023-09-27 at 07 45 04 (1)](https://github.com/herbayulet/Ambisius-Coding-Challenger/assets/61405169/dfacacc2-e268-4404-a0b7-b5385f860565)
+
 
 ## Rekaman Video
-[Screencast from 2023-09-11 23-11-29.webm](https://github.com/herbayulet/Todo-App-Firebase/assets/61405169/2838ee9d-1a4b-443e-801b-4d459e6ed305)
+[Ambis Video.webm](https://github.com/herbayulet/Ambisius-Coding-Challenger/assets/61405169/db4106eb-8632-43ab-9051-9596b7b37746)
 
 
 ## Fitur
