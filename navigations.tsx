@@ -8,6 +8,7 @@ import Kasir from './screens/Kasir'
 import { AntDesign } from '@expo/vector-icons';
 import { MaterialIcons } from '@expo/vector-icons';
 import { FontAwesome5 } from '@expo/vector-icons'; 
+import { View } from 'react-native'
 
 export type RootStack = {
   Menu: undefined,
@@ -20,7 +21,7 @@ const Stack = createBottomTabNavigator<RootStack>()
 
 const RootNavigator = () => {
   return (
-    <NavigationContainer independent={true} >
+    <NavigationContainer independent={true}>
       <Stack.Navigator  initialRouteName="Menu"
         screenOptions={{ headerShown: false, tabBarActiveTintColor:'blue', tabBarInactiveTintColor:'grey' }} >
         <Stack.Screen  options={{
@@ -36,7 +37,7 @@ const RootNavigator = () => {
           tabBarIcon: ({color, size}) => ( <FontAwesome5 name='cash-register' color={color} size={20} />)
         }} name='Kasir' component={Kasir}/>
       </Stack.Navigator>
-    </NavigationContainer>
+      </NavigationContainer>
   )
 }
 
