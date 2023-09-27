@@ -8,8 +8,8 @@
 Ini adalah Restoran App sederhana yang mana dapat menambah Menu, lalu membuat order untuk setiap Meja (ada 3 Meja: Meja1, Meja2, Meja3), dan dapat mendisclose dari setiap orderan dari setiap meja, serta dapat melakukan print Struk dari setiap Meja.
 
 ## Tampilan Screenshot
-![WhatsApp Image 2023-09-27 at 07 45 04](https://github.com/herbayulet/Ambisius-Coding-Challenger/assets/61405169/048156ee-23d4-4fcf-aa87-215f140d094b)
-![WhatsApp Image 2023-09-27 at 07 45 04 (1)](https://github.com/herbayulet/Ambisius-Coding-Challenger/assets/61405169/dfacacc2-e268-4404-a0b7-b5385f860565)
+- ![WhatsApp Image 2023-09-27 at 07 45 04](https://github.com/herbayulet/Ambisius-Coding-Challenger/assets/61405169/048156ee-23d4-4fcf-aa87-215f140d094b)
+- ![WhatsApp Image 2023-09-27 at 07 45 04 (1)](https://github.com/herbayulet/Ambisius-Coding-Challenger/assets/61405169/dfacacc2-e268-4404-a0b7-b5385f860565)
 
 
 ## Rekaman Video
