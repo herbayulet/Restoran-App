@@ -39,8 +39,8 @@ Ini adalah Restoran App sederhana yang mana dapat menambah Menu, lalu membuat or
 - Serta dapat Melakukan Print Struk di halaman kasir untuk setiap meja, dan dapat mendelete struk untuk setiap meja yang dipilih
 
 
-# Jalankan aplikasi
-yarn install
+# File APK
+- https://drive.google.com/file/d/1zrouYQcmhGK8wStJmFP9t47i8OQVsIQv/view?usp=drive_link
 
 # Jalankan aplikasi
 yarn start/expo start
