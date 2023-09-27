@@ -22,6 +22,7 @@ Ini adalah Restoran App sederhana yang mana dapat menambah Menu, lalu membuat or
 
 ## Teknologi Terkait
 
+- [TypeScript](https://www.typescriptlang.org/)
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
 - [Tailwind CSS (Nativewind)](https://github.com/nativewind)
