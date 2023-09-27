@@ -5,9 +5,9 @@ import Layout from "../components/Layout.tsx";
 
 const index = () => {
   return (
-    <Layout>
-      <RootNavigator />
-    </Layout>
+      <Layout>
+        <RootNavigator />
+      </Layout>
   );
 };
 

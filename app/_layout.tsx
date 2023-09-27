@@ -1,8 +1,5 @@
-import FontAwesome from '@expo/vector-icons/FontAwesome';
 import { DarkTheme, DefaultTheme, ThemeProvider } from '@react-navigation/native';
-import { useFonts } from 'expo-font';
-import { SplashScreen, Stack } from 'expo-router';
-import { useEffect } from 'react';
+import { Stack } from 'expo-router';
 import { Text, useColorScheme } from 'react-native';
 import Menu from '../screens/Menu';
 
@@ -12,7 +9,7 @@ export const unstable_settings = {
   initialRouteName: 'index',
 };
 
-function RootLayoutNav() {
+const RootLayoutNav = () => {
   const colorScheme = useColorScheme();
 
   return (
